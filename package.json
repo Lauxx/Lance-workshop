@@ -2,7 +2,11 @@
   "name": "lance-workshop",
   "version": "1.0.0",
   "main": "server.js",
-  "dependencies": {},
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "chokidar": "^1.4.3",
+    "express": "^4.13.4"
+  },
   "devDependencies": {
     "eslint": "^2.6.0",
     "eslint-config-airbnb": "^6.2.0",
